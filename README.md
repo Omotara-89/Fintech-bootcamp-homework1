@@ -1,5 +1,5 @@
 # Fintech-bootcamp-homework1
-
+![trulioo_log](trulioo.png)
 ## Trulioo case study
 
 Complete the following steps:
