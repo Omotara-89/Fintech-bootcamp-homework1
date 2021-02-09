@@ -1,5 +1,7 @@
 # Fintech-bootcamp-homework1
 
+## Trulioo case study
+
 Complete the following steps:
 1.	Navigate to the class GitLab/GitHub repository and choose one of the case study proposals from the list.
 2.	Create a new GitHub repository to share with your partner.
